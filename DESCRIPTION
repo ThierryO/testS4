@@ -1,0 +1,8 @@
+Package: testS4
+Title: Dummy package to test the import of S4
+Version: 0.0.0.9000
+Authors@R: person("Thierry", "Onkelinx", email = "thierry.onkelinx@inbo.be", role = c("aut", "cre"))
+Description: Dummy package to test the import of S4
+Depends: R (>= 3.2.2)
+License: GPL-3
+LazyData: true
